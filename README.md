@@ -27,7 +27,7 @@ The application is built entirely with Flutter. For our backend services, we hav
 * If you are using an IDE like [Android Studio](https://developer.android.com/studio), you may use suitable GUI/hotkeys. Here is how you can work things from the terminal.
 
 ```
-git clone https://github.com/PranshuPandya/locus-stolker-app
+git clone https://github.com/jwalit24/live_location_app
 cd locus-stolker-app
 flutter run 
 ```
